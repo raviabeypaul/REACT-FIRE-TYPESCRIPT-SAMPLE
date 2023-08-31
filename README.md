@@ -13,6 +13,9 @@ Java is must for firbase emulator to run
 
 Firebase authentication is used to authenticate the user.
 Firestore is used for storing relevant task of the user.
+![image](https://github.com/raviabeypaul/REACT-FIRE-TYPESCRIPT-SAMPLE/assets/16097725/b8b65437-0ba4-457d-9b37-b04f9a080c42)
+
+![image](https://github.com/raviabeypaul/REACT-FIRE-TYPESCRIPT-SAMPLE/assets/16097725/3f4f4bc9-80f8-4529-80f5-8f3156ec626b)
 
 
 ## Available Scripts
