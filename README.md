@@ -1,6 +1,19 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a mini project which is used for notes/task saving in the application, which was created with the help of reactfire. This projects consists of Firebase Authentication for login and user verification purpose. And it also have used firestore for database requirement.
+
+## `Prerequistes`
+
+Need to setup firebase-tools in the terminal inorder to view live auth and database changes.\
+Java is must for firbase emulator to run
+
+## `npm run emulators`
+
+## Background
+
+Firebase authentication is used to authenticate the user.
+Firestore is used for storing relevant task of the user.
+
 
 ## Available Scripts
 
